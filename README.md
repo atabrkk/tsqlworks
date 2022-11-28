@@ -1,0 +1,2 @@
+# tsqlworks
+T-SQL ÇALIŞMALARIM
